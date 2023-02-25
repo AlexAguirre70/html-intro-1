@@ -45,7 +45,20 @@ The link doesn't center by itself, but the text element can be centered when wra
 **sub** this if for subscript<br/>
 <br/>
 <br/>
+**hr** is an horizontal line
+<br/>
+<br/>
 **ul** is to create an unordered list with list items<br/>
+This can take a **list-style-type** for bulleting of <br/>
+* disc - this is the default
+* circle
+* square
+* none
+<br/>
+An unordered list can also be used to create a navigation bar
+<br/>
+<br/>
+
 **ol** is to create an unordered list with list items. This can take value attribute other than bullets.<br/>
 * **a** lowercase letter
 * **A** upperase letter
@@ -56,4 +69,30 @@ The link doesn't center by itself, but the text element can be centered when wra
 <br/>
 
 **li** is for the list items. <br/>
+<br/>
+<br/>
+
+### Navbar
+
+<br/>
+<br/>
+
+### Table
+Tables **table** have three parts. The header **thead** , the body **tbody** and the footer **tfoot** <br>
+The header, body and footer can contain rows **tr** and columns **th**<br/>
+The table by itself is not styled and requires attributes to style the table. Attributes like:
+* border and border color
+* padding - space around the content left and right
+* colspan - this can merge columns
+* rowpsan - this can merge rows
+* bgcolor - background colors
+<br/>
+<br/>
+
+### Inline Elements
+<br/>
+<br/>
+
+### Block Elements
+<br/>
 <br/>
