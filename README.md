@@ -26,5 +26,34 @@ By default the unvisited link appears underlined and blue. <br/>
 A visited link appears underlined and purple.<br/>
 An active link appears underlined and red.<br/>
 The **target** attribute determines how to view the linked page. It can be in **_blank** page or **_self** for the same page. 
-The link doesn't center by itself, but the text element can be centered when wrapped by **a** tag.
+The link doesn't center by itself, but the text element can be centered when wrapped by **a** tag. <br/>
 
+### Semantic and General used tags
+**em** emphasized semantic text<br/>
+**i** emphasized general use text
+<br/>
+**strong** important semantic text<br/>
+**b** important general use text
+<br/>
+**del** Strikethrough semantic text<br/>
+**s** Strikethrough general use text
+<br/>
+**ins** Underlined semantic text<br/>
+**u** Underlined general use text
+<br/>
+**sup** this is for superscript<br/>
+**sub** this if for subscript<br/>
+<br/>
+<br/>
+**ul** is to create an unordered list with list items<br/>
+**ol** is to create an unordered list with list items. This can take value attribute other than bullets.<br/>
+* **a** lowercase letter
+* **A** upperase letter
+* **i** lowercase Roman numerals
+* **I** uppercase Roman numberals
+* **1** numbers - this is the default
+
+<br/>
+
+**li** is for the list items. <br/>
+<br/>
